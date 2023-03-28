@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=_oO4Qi5aVZs&ab_channel=JavaScriptMastery
+
+npm create vite@latest
+cd bank_modern_app
+npm install
+npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+rafce - создать базовый набор для jsx
+
+После завершения сайта
+npm run build
